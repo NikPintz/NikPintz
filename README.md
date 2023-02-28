@@ -5,6 +5,12 @@
 
 - 🌱 I’m currently learning **web stack tools like nodejs and react**
 
+- 💬 Ask me about cars
+
+- 📫 How to reach me: nikhilpinto2001@gmail.com
+
+- ⚡ Fun fact i think im not good at all this coding business
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
